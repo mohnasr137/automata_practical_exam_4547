@@ -14,5 +14,4 @@
 
 ### Task 1: Construct a DFA that accepts all binary strings where the substring `101` appears at least once
 
-### Task 3: Write a program to design a Turing Machine that recognizes the language L= {
-Accept binary numbers divisible by 3}
+### Task 3: Write a program to design a Turing Machine that recognizes the language L= {Accept binary numbers divisible by 3}
