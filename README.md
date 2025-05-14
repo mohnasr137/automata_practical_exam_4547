@@ -4,9 +4,7 @@
 - **Course Code**: CS460  
 - **Course Name**: Theory of Computation  
 - **Department**: Computer Science  
-- **Exam Type**: Hands-on Coding  
 - **Section Number**: 5  
-- **Section Name**: DFA & Turing Machine Design
 
 ---
 
